@@ -1,0 +1,21 @@
+body {
+
+background-image: url("../images/hangman_noose.jpg");
+
+background-size: 100%;
+
+color: orange;
+
+}
+
+#word {
+
+
+margin-top: 50px;
+
+margin-left: 200px;
+
+font-size: 200%;
+
+
+}
